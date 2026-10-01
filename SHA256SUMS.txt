@@ -1,0 +1,10 @@
+Apocalypse German Uncut v1.0 RC1 - Bratwurstmensch
+
+Verified inputs:
+German Track 1  296e3cb77af3c7a9e89d569097c5fb9c9e644898c670c0622e9bfe6ce0e1b304
+USA Track 1     3d0fdbd75ae2377fb12f7acbb9878932e9ff985724d5f15811b02c0f3a115fd4
+Track 2         cb68f944093d63a57ac2fbb356c14bd013ac02e5f7c00ddf0d32237165234b0f
+
+Verified outputs:
+PAL              031dab98cd43343a48e77068e368924101b00627bd49db775c3612abeec0c31f
+TRUE NTSC 60Hz   89b8dabbd7d083d610c3904ffa0ea5d8beca8aae07542a1001f5663d649c1440

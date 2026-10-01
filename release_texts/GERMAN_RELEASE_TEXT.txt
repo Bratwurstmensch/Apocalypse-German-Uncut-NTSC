@@ -1,0 +1,8 @@
+**Apocalypse – German Uncut / TRUE NTSC 60 Hz v1.0 RC1**  
+**Autor: Bratwurstmensch**
+
+Der Patch stellt in der deutschen PS1-Fassung rotes Blut, Zerlegungen/Gore und die entfernten Blutfontaenen wieder her. Zusaetzlich gibt es eine TRUE-NTSC-Variante, die den echten US-Codekern (SLUS-00373) fuer Gameplay, Rendering und Timing nutzt und darauf die deutsche Lokalisierung anwendet. Dadurch entsteht echtes NTSC-60-Hz-Verhalten statt eines PAL→NTSC-Hybrids.
+
+Keine kompletten Spieldateien enthalten. Fuer TRUE NTSC werden die originalen deutschen und US-Track-1-Images benoetigt.
+
+**KI-Transparenz:** Dieses Projekt wurde in einem KI-gestuetzten Workflow mit ChatGPT erstellt. Reverse Engineering, Binaervergleiche, Patchlogik, Builder-Code und ein grosser Teil der Dokumentation entstanden mit KI-Unterstuetzung. Bratwurstmensch hat das Projekt initiiert/gesteuert, die Original-Dumps bereitgestellt und die praktischen Emulator-Tests durchgefuehrt. Es wird nicht behauptet, dass die technische Arbeit von Hand programmiert oder reverse-engineert wurde.
